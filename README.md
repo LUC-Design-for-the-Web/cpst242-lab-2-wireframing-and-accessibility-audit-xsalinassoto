@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12242634&assignment_repo_type=AssignmentRepo)
 ## Directions
 
 For this lab, you will practice creating a high-fidelity wireframe and consider accessibility factors that impact design.  There are a few tools you will use for this lab.  Under the first bullet point, I list two popular industry standard wireframing tools you can select from to create your wireframe, and the second bullet point provides the URL to the WAVE accessibility tool you will use to run an accessibility audit.
